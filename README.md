@@ -21,4 +21,6 @@
 ## Other Resoures
 - [Machine Learning Cơ Bản](https://machinelearningcoban.com/)
 - [Kaggle](https://www.kaggle.com/)
+
+
 I'll seriously learn about machine learning in next year. What awesome waits for me...UwU 
